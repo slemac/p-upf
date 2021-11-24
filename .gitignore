@@ -1,0 +1,4 @@
+auth/node_modules/
+auth/development.env
+client/node_modules/
+client/development.env
